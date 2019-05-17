@@ -1,0 +1,23 @@
+PODS:
+  - PurchaseKit (1.0.0):
+    - SwiftyStoreKit
+  - SwiftyStoreKit (0.15.0)
+
+DEPENDENCIES:
+  - PurchaseKit (from `../PurchaseKit`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftyStoreKit
+
+EXTERNAL SOURCES:
+  PurchaseKit:
+    :path: "../PurchaseKit"
+
+SPEC CHECKSUMS:
+  PurchaseKit: c8295b8ffba95a948ad919a8d46478d393faadc7
+  SwiftyStoreKit: 033d06b6f87955405d3f844a18a7687c2438592a
+
+PODFILE CHECKSUM: 2a2437b7696b0c502c7768f38cfb8e35f9e21362
+
+COCOAPODS: 1.6.1
